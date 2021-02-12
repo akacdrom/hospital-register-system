@@ -1,0 +1,16 @@
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\bin\Debug\net5.0\hospital-register-system.exe
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\bin\Debug\net5.0\hospital-register-system.deps.json
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\bin\Debug\net5.0\hospital-register-system.runtimeconfig.json
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\bin\Debug\net5.0\hospital-register-system.runtimeconfig.dev.json
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\bin\Debug\net5.0\hospital-register-system.dll
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\bin\Debug\net5.0\ref\hospital-register-system.dll
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\bin\Debug\net5.0\hospital-register-system.pdb
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\hospital-register-system.csprojAssemblyReference.cache
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\hospital-register-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\hospital-register-system.AssemblyInfoInputs.cache
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\hospital-register-system.AssemblyInfo.cs
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\hospital-register-system.csproj.CoreCompileInputs.cache
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\hospital-register-system.dll
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\ref\hospital-register-system.dll
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\hospital-register-system.pdb
+C:\Users\akkus\Documents\hospital-system-20210212T134537Z-001\hospital-register-system\obj\Debug\net5.0\hospital-register-system.genruntimeconfig.cache

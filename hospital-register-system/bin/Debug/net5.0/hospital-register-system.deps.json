@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hospital-register-system/1.0.0": {
+        "runtime": {
+          "hospital-register-system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hospital-register-system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
